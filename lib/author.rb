@@ -4,6 +4,9 @@ class Author
   
   @@post_count = 0 
   
+  def initialize
+    
+  end
   
   def add_post(post)
      @posts << post
