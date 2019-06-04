@@ -8,7 +8,7 @@ class Song
     @@all = []
   end
   
-  def artist_name(artist_name=nil)
+  def artist_name(artist=nil)
     artist.name if artist
   end
   
