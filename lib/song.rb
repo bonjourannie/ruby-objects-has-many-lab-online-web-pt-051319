@@ -8,4 +8,8 @@ class Song
     @@all = []
   end
   
+  def artist_name(name=nil)
+    
+    
+  
 end
