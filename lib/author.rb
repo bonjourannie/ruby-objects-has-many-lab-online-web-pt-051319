@@ -4,7 +4,6 @@ class Author
   
   @@post_count = 0 
   
-  @@all = []
   
   def add_post(post)
     
